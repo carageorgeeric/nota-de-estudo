@@ -1,6 +1,6 @@
 ---
 name: nota-de-estudo
-description: Escreve uma nota de estudo no Obsidian do usuário para ele APRENDER um tema, não só registrar. Use quando o usuário pedir para documentar, anotar, registrar ou explicar algo "no Obsidian", criar uma nota sobre um assunto, ou disser que quer aprender/entender um tema a partir do que foi feito na conversa (ex.: "documenta isso no meu obsidian", "cria uma nota pra eu aprender X", "/nota-de-estudo deploy").
+description: 'Escreve uma nota de estudo no Obsidian do usuário para ele APRENDER um tema, não só registrar. Use quando o usuário pedir para documentar, anotar, registrar ou explicar algo "no Obsidian", criar uma nota sobre um assunto, ou disser que quer aprender/entender um tema a partir do que foi feito na conversa (ex.: "documenta isso no meu obsidian", "cria uma nota pra eu aprender X", "/nota-de-estudo deploy").'
 ---
 
 # Nota de estudo no Obsidian
