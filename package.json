@@ -1,0 +1,29 @@
+{
+  "name": "nota-de-estudo",
+  "version": "1.0.0",
+  "description": "Skill do Claude Code que escreve notas de estudo no Obsidian para você aprender um tema, não só registrar.",
+  "bin": {
+    "nota-de-estudo": "bin/install.js"
+  },
+  "files": [
+    "bin",
+    "skills"
+  ],
+  "engines": {
+    "node": ">=16.7"
+  },
+  "keywords": [
+    "claude-code",
+    "claude",
+    "skill",
+    "obsidian",
+    "estudo",
+    "tdah"
+  ],
+  "author": "Eric <carageorgeeric@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carageorgeeric/nota-de-estudo.git"
+  }
+}
